@@ -26,4 +26,4 @@ async def help(ctx):
     em.add_field(name='Commands', value='`?hello` to say hello to me!\n`?ping` to check my ping!\n`?help` to see this message!', inline=False)
     await ctx.send(embed=em)
 
-bot.run('MTA4MTIzNTM4MjQ5MTkzODg2Nw.GSkgaH.ZLoHnHZXvQGs5oYazTqBon1Lf5p9UljE3r0lto')
+bot.run('token goes here')
