@@ -28,4 +28,4 @@ async def help(ctx):
     await ctx.send(embed=em)
 
 token = os.environ['TOKEN']
-bot.run('token goes here')
+bot.run('token')
